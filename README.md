@@ -2,6 +2,6 @@
 
 Why? 
 
-Because the figures have the heightest quality for the EA version.
+Because the figures have the highest quality for the EA version.
 
-See: https://horychen.github.io/publication/
+See also: https://horychen.github.io/publication/
